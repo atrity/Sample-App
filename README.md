@@ -1,2 +1,2 @@
 # blackboxai-1741781327638
-HR & Payroll Base
+Sample App Base
